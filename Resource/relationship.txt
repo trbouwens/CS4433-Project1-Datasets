@@ -1,0 +1,12 @@
+friend
+college-friend
+family-friend
+youth-friend
+hobby-friend
+mutual-friend
+married
+partner
+family
+family in-law
+follower
+other
